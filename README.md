@@ -79,3 +79,8 @@ Format: Excel (.xlsx)
 Contains: Dashboard sheet with visualizations, data sheet with raw HR data.
 
 Purpose: HR analytics & workforce management.
+
+
+
+
+<img width="1437" height="935" alt="Image" src="https://github.com/user-attachments/assets/0822ac13-b47d-4266-ac98-3c5afa9ea226" />
